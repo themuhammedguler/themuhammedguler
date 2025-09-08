@@ -127,7 +127,6 @@ Engineered a secure biometric system integrating ESP32-CAM and facial recognitio
 <p align="center">
   <a href="https://www.linkedin.com/in/muhammedglr/">LinkedIn</a> •
   <a href="mailto:themuhammedguler@gmail.com">Email</a> •
-  <a href="#">Portfolio</a>
 </p>
 
 <div align="center">
