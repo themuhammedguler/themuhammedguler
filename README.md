@@ -109,14 +109,6 @@ Engineered a secure biometric system integrating ESP32-CAM and facial recognitio
 
 ---
 
-## 💡 Skills
-**Programming Languages:** C, C++, C#, Java, Python, SQL  
-**AI/ML:** Machine Learning, Deep Learning, Natural Language Processing, Generative Adversarial Networks  
-**Frameworks/Libraries:** .NET Framework, Git  
-**Hardware:** Microcontroller Programming
-
----
-
 ## 🌱 Languages
 - **Turkish** (Native)
 - **English** (Intermediate B1)
