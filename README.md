@@ -60,8 +60,8 @@ From **Istanbul, Turkey** 🇹🇷
   <img alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
   <img alt="Jupyter" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40"/>
   <img alt="Arduino" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40"/>
-  <img alt="STM32" src="https://upload.wikimedia.org/wikipedia/commons/0/00/STMicroelectronics_logo.svg" height="40"/>
   <img alt="Raspberry Pi" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40"/>
+  <img alt="Microcontroller" src="https://img.shields.io/badge/Microcontroller-STM32-blue?style=flat-square"/>
 </p>
 
 ---
