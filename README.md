@@ -122,6 +122,35 @@ Engineered a secure biometric system integrating ESP32-CAM and facial recognitio
 - Swimming
 - Fitness
 
+## Sertifikalarım
+
+### 2025
+
+- [3rd International British Congress on Interdisciplinary Scientific Research & Practices](certificates/2025/3rd_International_British_Congress.pdf)
+![Sertifika Görseli](certificates/2025/3rd_International_British_Congress.png)
+
+### 2024
+ 
+- [8th International Artificial Intelligence and Data Processing Symposium (IDAP’24)](certificates/2024/IDAP_MelanoTech_Participation.pdf)
+![Sertifika Görseli](certificates/2024/IDAP_MelanoTech_Participation.png) 
+ 
+- [Agile101](certificates/2024/Agile101-Softtech.pdf)
+![Sertifika Görseli](certificates/2024/Agile101-Softtech.png)  
+
+### 2023
+- [TUBITAK BILGEM JavaBootCamp](certificates/2023/TUBITAK_BILGEM_JavaBootCamp.pdf)  
+![Sertifika Görseli](certificates/2023/TUBITAK_BILGEM_JavaBootCamp.png)  
+
+- [TÜBİTAK BİLGEM YTE Bootcamp 2023 Mikroservis Mimarileri Eğitimi](certificates/2023/TÜBİTAK_BİLGEM_YTE_Bootcamp_2023_Mikroservis_Mimarileri_Eğitimi.pdf)  
+![Sertifika Görseli](certificates/2023/TÜBİTAK_BİLGEM_YTE_Bootcamp_2023_Mikroservis_Mimarileri_Eğitimi.png)  
+
+- [C# Programlama](certificates/2023/CSharp_Programlama_Sertifika_BTK.pdf) 
+![Sertifika Görseli](certificates/2023/CSharp_Programlama_Sertifika_BTK.png)  
+
+- [Teknofest Katılım Belgesi](certificates/2023/Teknofest-Katılım-Belgesi.pdf)  
+![Sertifika Görseli](certificates/2023/Teknofest-Katılım-Belgesi.png)  
+
+
 ---
 
 ## 📫 Let's Connect!
