@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:4facfe,100:00f2fe&height=120&section=header&text=Hi!%20I'm%20Muhammed%20Güler&fontSize=28&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:ff0000,100:cc0000&height=120&section=header&text=Hi!%20I'm%20Muhammed%20Güler&fontSize=28&fontColor=ffffff" />
 
 <p align="center">
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder" width="250">
