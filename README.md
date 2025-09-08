@@ -103,7 +103,7 @@ Engineered a secure biometric system integrating ESP32-CAM and facial recognitio
 ---
 
 ## 🎓 Education
-**Computer Engineer, Istanbul Health and Technology University**  
+**Computer Engineer, Istanbul Health and Technology University (Full Scholarship)**  
 *2021 – 2025, Istanbul, Türkiye*  
 [University Website](https://www.istun.edu.tr/)
 
