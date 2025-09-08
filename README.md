@@ -118,7 +118,7 @@ Engineered a secure biometric system integrating ESP32-CAM and facial recognitio
 ---
 
 ## 🏊 Hobbies & Interests
-- Reading Books
+- Enthusiastic Reader of Historical Literature
 - Swimming
 - Fitness
 
