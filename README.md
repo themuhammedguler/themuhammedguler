@@ -6,11 +6,8 @@
     <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder" width="220" />
   </p>
 
-  <!-- Visitor Counter & Social Badges -->
+  <!-- Social Badges -->
   <p align="center">
-    <a href="https://github.com/themuhammedguler">
-      <img src="https://komarev.com/ghpvc/?username=themuhammedguler&style=for-the-badge&color=blue" alt="Profile Views" />
-    </a>
     <a href="https://www.linkedin.com/in/muhammedglr/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
@@ -141,7 +138,7 @@
 
 ### 🗣️ Languages
 - 🇹🇷 **Turkish** — Native
-- 🇬🇧 **English** — Intermediate (B1)
+- 🌐 **English (EN)** — Upper-Intermediate (B2)
 - 🇩🇪 **German** — Basic (A1)
 
 </td>
@@ -244,13 +241,10 @@
   <a href="mailto:themuhammedguler@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://github.com/themuhammedguler" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
 </div>
 
 <br/>
 
 <div align="center">
-  <i>"Combining theoretical AI knowledge with practical implementation to solve real-world problems"</i>
+  <i>"Engineering intelligent systems at the intersection of Artificial Intelligence, Edge Computing, and real-world innovation."</i>
 </div>
