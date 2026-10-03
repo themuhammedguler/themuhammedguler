@@ -138,7 +138,7 @@
 
 ### 🗣️ Languages
 - 🇹🇷 **Turkish** — Native
-- 🌐 **English (EN)** — Upper-Intermediate (B2)
+- 🇪🇳 **English** — Upper-Intermediate (B2)
 - 🇩🇪 **German** — Basic (A1)
 
 </td>
