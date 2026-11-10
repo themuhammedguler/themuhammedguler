@@ -11,6 +11,9 @@
     <a href="https://www.linkedin.com/in/muhammedglr/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
+    <a href="https://www.kaggle.com/themuhammedguler" target="_blank">
+      <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
+    </a>
     <a href="mailto:themuhammedguler@gmail.com" target="_blank">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
@@ -29,6 +32,7 @@
 - 🚁 **Former Embedded Software Intern** at **BAYKAR** - Turkish UAV & Defense Technology Manufacturer
 - 🤖 **Passionate about** Artificial Intelligence, Deep Learning, and Computer Vision
 - 🔬 **Published researcher** in AI-powered medical applications (*IEEE Conference Publication*)
+- 🏅 **Graduate of Data Science Program** at **Yapay Zeka ve Teknoloji Akademisi (YZTA)** (*Google & T3 Foundation Partnership*)
 - 🎯 **Specialized in** Turkish NLP, sentiment analysis, and transformer models
 - 💡 **Active in robotics and automation projects** as IEEE ISTUN Student Club RAS Committee Chair
 - 🏆 **TEKNOFEST Finalist** with CodeSwaper educational platform startup
@@ -81,15 +85,29 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=themuhammedguler&show_icons=true&count_private=true&include_all_commits=true&theme=react&hide_border=true" height="160" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=themuhammedguler&layout=compact&langs_count=8&theme=react&hide_border=true" height="160" alt="Top Languages" />
+  <img src="./assets/github-stats.svg" height="160" alt="GitHub Stats" />
+  <img src="./assets/top-langs.svg" height="160" alt="Top Languages" />
   <br/><br/>
-  <img src="https://streak-stats.demolab.com?user=themuhammedguler&theme=react&hide_border=true" height="150" alt="Streak Stats" />
+  <img src="./assets/streak-stats.svg" height="150" alt="Streak Stats" />
 </div>
 
 ---
 
 ## 🏆 Featured Projects & Research
+
+### 📈 BIST Trend Forecaster: AI-Powered Market Direction Platform
+> *Machine learning (XGBoost) based trend prediction, technical analysis, TreeSHAP explainability, and MLOps decision support platform for BIST 30 stocks.*
+- 🧠 Multi-model ML pipeline featuring walk-forward time-series validation & custom feature engineering
+- 🔍 Explainable AI via **TreeSHAP** providing transparent feature attribution and prediction confidence
+- 🧪 Production-grade architecture with **362 unit tests**, automated CI/CD workflows, and interactive dashboards  
+🔗 [GitHub Repository](https://github.com/themuhammedguler/BIST-Trend-Forecaster) | [🚀 Live Streamlit App](https://bist-trend-forecaster.streamlit.app/) | [🤗 Hugging Face Space](https://huggingface.co/spaces/themuhammedguler/BIST-Trend-Forecaster)
+
+### 💬 BIST Financial Analyst: Hybrid RAG & LLM Decision Engine
+> *Autonomous AI Financial Analyst assistant for BIST 100 stocks analyzing KAP public disclosures, balance sheets, and financial metrics.*
+- ⚡ **Hybrid RAG search**: Dense vector retrieval (FAISS) combined with sparse lexical ranking (BM25)
+- 🤖 Powered by **Google Gemini LLM** for deep financial reasoning and balance sheet interpretation
+- 📊 Quantitative decision engine featuring financial ratio scoring, risk-adjusted sizing via **Kelly Criterion**, and REST API via **FastAPI**  
+🔗 [GitHub Repository](https://github.com/themuhammedguler/Financial-Analyst-ChatBot-Project) | [🚀 Live Streamlit App](https://financial-analyst-chatbot-project.streamlit.app/)
 
 ### 📱 MelanoTech: AI-Powered Melanoma Diagnosis
 > **IEEE Published Research (IDAP 2024)**  
@@ -102,7 +120,8 @@
 ### 🗣️ Turkish Sentiment Analysis with Transformer Models
 > *Specialized NLP system addressing the challenges of agglutinative Turkish morphology.*
 - Fine-tuned state-of-the-art transformer architectures: **BERT, DistilBERT, and XLM-RoBERTa**
-- Evaluated on real-world Turkish e-commerce customer review datasets for sentiment classification
+- Evaluated on real-world Turkish e-commerce customer review datasets for sentiment classification  
+🔗 [GitHub Repository](https://github.com/themuhammedguler/Turkish-Ecommerce-Sentiment-Analysis)
 
 ### 🔒 IoT-Enabled Smart Safe with Facial Recognition
 > *Biometric IoT security solution built with edge hardware and intelligent verification.*
@@ -158,7 +177,7 @@
 ## 📜 Certifications & Achievements / Sertifikalar & Başarılar
 
 <details open>
-<summary><h3>🥇 2026 Sertifikaları & Eğitimleri (12 Sertifika)</h3></summary>
+<summary><h3>🥇 2026 Sertifikaları & Eğitimleri (13 Sertifika)</h3></summary>
 <br/>
 
 <table width="100%">
@@ -269,6 +288,17 @@
       <b>Girişimciler İçin Hukuk Eğitimi</b><br/>
       <sub>🏛️ Yapay Zeka ve Teknoloji Akademisi (YZTA)</sub>
     </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <a href="./certificates/2026/Certificate_YZTA_Veri_Bilimi_Mezuniyet_Belgesi.pdf" target="_blank">
+        <img src="./certificates/2026/Certificate_YZTA_Veri_Bilimi_Mezuniyet_Belgesi.png" width="100%" alt="Veri Bilimi Eğitim Programı Mezuniyet Belgesi" />
+      </a>
+      <br/><br/>
+      <b>Veri Bilimi Eğitim Programı Mezuniyet Belgesi</b><br/>
+      <sub>🏛️ Yapay Zeka ve Teknoloji Akademisi (YZTA)</sub>
+    </td>
+    <td width="50%"></td>
   </tr>
 </table>
 
@@ -482,6 +512,9 @@
 <div align="center">
   <a href="https://www.linkedin.com/in/muhammedglr/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.kaggle.com/themuhammedguler" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
   </a>
   <a href="mailto:themuhammedguler@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
