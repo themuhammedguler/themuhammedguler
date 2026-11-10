@@ -19,16 +19,27 @@
     </a>
   </p>
 
+  <!-- Navigation Menu -->
+  <p align="center">
+    <a href="#about-me"><b>About</b></a> •
+    <a href="#tech-stack"><b>Tech Stack</b></a> •
+    <a href="#featured-projects"><b>Projects</b></a> •
+    <a href="#work-experience"><b>Experience</b></a> •
+    <a href="#certifications"><b>Certificates</b></a> •
+    <a href="#contact"><b>Contact</b></a>
+  </p>
+
 </div>
 
 ---
 
+<a id="about-me"></a>
 ## 👨‍💻 About Me
 
 **Computer Engineer · AI & Machine Learning · Embedded Systems**  
 📍 Istanbul, Turkey 🇹🇷
 
-- 🎓 **Computer Engineering student** at Istanbul Health and Technology University (*Full Scholarship*)
+- 🎓 **Computer Engineering Graduate** (B.Sc.) from Istanbul Health and Technology University (*Full Scholarship*)
 - 🚁 **Former Embedded Software Intern** at **BAYKAR** - Turkish UAV & Defense Technology Manufacturer
 - 🤖 **Passionate about** Artificial Intelligence, Deep Learning, and Computer Vision
 - 🔬 **Published researcher** in AI-powered medical applications (*IEEE Conference Publication*)
@@ -39,6 +50,7 @@
 
 ---
 
+<a id="tech-stack"></a>
 ## 🛠️ Tech Stack & Skills
 
 ### 💻 Programming Languages
@@ -119,6 +131,7 @@
 
 ---
 
+<a id="featured-projects"></a>
 ## 🏆 Featured Projects & Research
 
 ### 📈 BIST Trend Forecaster: AI-Powered Market Direction Platform
@@ -156,6 +169,7 @@
 
 ---
 
+<a id="work-experience"></a>
 ## 💼 Work Experience
 
 ### 🚁 Embedded Software Intern @ BAYKAR Tech
@@ -200,6 +214,7 @@
 
 ---
 
+<a id="certifications"></a>
 ## 📜 Certifications & Achievements / Sertifikalar & Başarılar
 
 <details open>
@@ -533,6 +548,7 @@
 
 ---
 
+<a id="contact"></a>
 ## 📫 Let's Connect!
 
 <div align="center">
